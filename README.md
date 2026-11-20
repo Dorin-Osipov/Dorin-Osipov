@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Python backend engineer. I build APIs with FastAPI and Django, model data in PostgreSQL, and enjoy the part of backend work where a simple question turns into an interesting edge case.
+I'm a Senior backend engineer. I build APIs with FastAPI and Django, model data in PostgreSQL, and enjoy the part of backend work where a simple question turns into an interesting edge case.
 
 ### 🔭 On my workbench
 
