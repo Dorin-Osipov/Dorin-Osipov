@@ -1,18 +1,24 @@
-# Hi there 👋
+# Dorin Osipov
 
-I'm a Senior backend engineer. I build APIs with FastAPI and Django, model data in PostgreSQL, and enjoy the part of backend work where a simple question turns into an interesting edge case.
+**Senior Backend Engineer at Penspen · Leeds, UK**
 
-### 🔭 On my workbench
+I build Python services for engineers who manage pipelines and other infrastructure. At Penspen I take features from the first conversation with product through API design, deployment and production support. I also review code and mentor junior developers.
 
-[**Supplier Compliance API**](https://github.com/Dorin-Osipov/supplier-compliance-api) answers a procurement team's question: *Can we onboard this supplier today?* One detail I like: if a supplier sends a valid renewal, an older certificate arriving later in the list should never block approval.
+[Portfolio](https://dorinosipov.com/) · [LinkedIn](https://www.linkedin.com/in/dorin-osipov-69a00a221/) · [Engineering notes](https://dorinosipov.com/blog/)
 
-[Read the assessment logic](https://github.com/Dorin-Osipov/supplier-compliance-api/blob/main/compliance.py) · [See the renewal tests](https://github.com/Dorin-Osipov/supplier-compliance-api/blob/main/test_compliance.py)
+## Engineering case studies
 
-### 🧰 Tools I work with
+- **[THEIA Pockets](https://dorinosipov.com/projects/theia-pockets)** — I designed and built the backend that lets engineers run approved Python analyses on their own data without setting up a Python environment. The case study follows a package from upload and approval to isolated execution on Azure Container Apps, with Redis tracking the session.
+- **[Carbon Watch](https://dorinosipov.com/projects/carbon-watch)** — I led the backend and Microsoft Fabric data pipeline for a tool that helps maintenance teams see how pump condition affects energy use and emissions. Our team won Best Visualization at the Sidara × Microsoft Hackathon.
 
-`Python` · `FastAPI` · `Django` · `PostgreSQL` · `Redis` · `Docker` · `Azure`
+## Public code
 
-### 💬 Ask me about
+**[Supplier Compliance API](https://github.com/Dorin-Osipov/supplier-compliance-api)** answers a procurement question: can we onboard this supplier today? FastAPI handles requests, PostgreSQL stores certificate history, and a small Python rules engine evaluates the evidence. One rule worth exploring: a valid renewal still counts when an older, expired certificate arrives later.
 
-- **Real-time messaging** — Follow a message from a WebSocket connection to a room broadcast and a database write in [Django Chat](https://github.com/Dorin-Osipov/django-chat/blob/main/mysite/chatapp/consumers.py).
-- **API design and testing** — I like turning business rules into examples that a product owner can recognise and a developer can run.
+[Read the assessment logic](https://github.com/Dorin-Osipov/supplier-compliance-api/blob/main/compliance.py) · [Explore the test cases](https://github.com/Dorin-Osipov/supplier-compliance-api/blob/main/test_compliance.py)
+
+**[Django Chat](https://github.com/Dorin-Osipov/django-chat)** is a compact example of real-time messaging. [Follow a message through the WebSocket consumer](https://github.com/Dorin-Osipov/django-chat/blob/main/mysite/chatapp/consumers.py) to see how Django Channels broadcasts it to a room and saves it for later.
+
+## Background
+
+Before Penspen, I built Python integrations for e-commerce systems at Monster Group and automated IT support tasks at Amazon. I hold a B.Eng. in Computing, Informatics and Microelectronics and earned the AWS Certified Developer – Associate credential in 2024.
