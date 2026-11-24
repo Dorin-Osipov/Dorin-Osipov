@@ -6,9 +6,9 @@ I build Python services that turn complex engineering requirements into dependab
 
 [Portfolio](https://dorinosipov.com/) · [LinkedIn](https://www.linkedin.com/in/dorin-osipov-69a00a221/) · [Engineering notes](https://dorinosipov.com/blog/)
 
-## Engineering case studies
+## Engineering projects
 
-- **[THEIA Pockets](https://dorinosipov.com/projects/theia-pockets)** — I designed and built the backend that lets engineers run approved Python analyses on their own data without setting up a Python environment. The case study follows a package from upload and approval to isolated execution on Azure Container Apps, with Redis tracking the session.
+- **[THEIA Pockets](https://dorinosipov.com/projects/theia-pockets)** — I designed and built the backend of Theia Pockets, that lets engineers run approved Python analyses on Theia data without setting up a Python environment. The backend takes each package from upload and approval to an isolated run on Azure Container Apps, with Redis tracking the session.
 - **[Carbon Watch](https://dorinosipov.com/projects/carbon-watch)** — I led the backend and Microsoft Fabric data pipeline for a tool that helps maintenance teams see how pump condition affects energy use and emissions. Our team won Best Visualization at the Sidara × Microsoft Hackathon.
 
 ## Public code
