@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer at Penspen · Leeds, UK**
 
-I build Python services for engineers who manage pipelines and other infrastructure. At Penspen I take features from the first conversation with product through API design, deployment and production support. I also review code and mentor junior developers.
+I build Python services that turn complex engineering requirements into dependable software. At Penspen I take features from the first conversation with product through API design, deployment and production support. I also review code and mentor junior developers.
 
 [Portfolio](https://dorinosipov.com/) · [LinkedIn](https://www.linkedin.com/in/dorin-osipov-69a00a221/) · [Engineering notes](https://dorinosipov.com/blog/)
 
